@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Logger Library</Title>
+    <Authors>Daxxn</Authors>
+    <Company>Daxxn Industries</Company>
+    <Description>Logger library for creating and handling runtime logs.</Description>
+  </PropertyGroup>
+
+</Project>
