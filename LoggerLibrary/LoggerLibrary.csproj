@@ -9,6 +9,7 @@
     <Authors>Daxxn</Authors>
     <Company>Daxxn Industries</Company>
     <Description>Logger library for creating and handling runtime logs.</Description>
+    <RepositoryUrl>https://github.com/Daxxn/LoggerLibrary.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
